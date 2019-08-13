@@ -1,6 +1,6 @@
 {
     "imServer": "test01.kl9177.com",
-    "appServer": "test01.kl9177.com",
+    "appServer": "test02.kl9177.com",
     "imPort": 80,
     "appPort": 80
 }
