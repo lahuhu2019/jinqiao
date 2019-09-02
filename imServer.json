@@ -1,6 +1,6 @@
 {
-    "imServer": "http://test01.kl9177.com",
-    "appServer": "http://test02.kl9177.com",
-    "imPort": 80,
-    "appPort": 80
+    "imServer": "http://imServer.011wx.cn",
+    "appServer": "https://im.011wx.cn",
+    "imPort": 8888,
+    "appPort": 443
 }
